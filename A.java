@@ -35,6 +35,12 @@ public class A {
 
     }
 
+    // minha adicao de fork
+    public int returnSoma(int a, int b){
+        return a + b;
+    }
+    
+
     public void MA3() {
 
         System.out.println("Alteração da classe A a partir do clone");
